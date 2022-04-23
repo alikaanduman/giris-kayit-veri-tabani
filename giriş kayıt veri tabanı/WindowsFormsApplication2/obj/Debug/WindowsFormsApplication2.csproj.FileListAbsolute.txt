@@ -1,0 +1,44 @@
+C:\Users\Ogrenci1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ogrenci1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ogrenci1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ogrenci1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ogrenci1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ogrenci1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Ogrenci1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ogrenci1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ogrenci1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Ogrenci1\Desktop\Yeni klasör\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Ogrenci1\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ogrenci1\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ogrenci1\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ogrenci1\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ogrenci1\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ogrenci1\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci1\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ogrenci1\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Ogrenci1\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Ogrenci1\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ogrenci1\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Ogrenci1\Desktop\giriş kayıt veri tabanı\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ogrenci1\Desktop\giriş kayıt veri tabanı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ogrenci1\Desktop\giriş kayıt veri tabanı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ogrenci1\Desktop\giriş kayıt veri tabanı\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ogrenci1\Desktop\giriş kayıt veri tabanı\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ogrenci1\Desktop\giriş kayıt veri tabanı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci1\Desktop\giriş kayıt veri tabanı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ogrenci1\Desktop\giriş kayıt veri tabanı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Ogrenci1\Desktop\giriş kayıt veri tabanı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Ogrenci1\Desktop\giriş kayıt veri tabanı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ogrenci1\Desktop\giriş kayıt veri tabanı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\ \Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\giriş kayıt veri tabanı\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\ \Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\giriş kayıt veri tabanı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\ \Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\giriş kayıt veri tabanı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\ \Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\giriş kayıt veri tabanı\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\ \Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\giriş kayıt veri tabanı\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\ \Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\giriş kayıt veri tabanı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\ \Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\giriş kayıt veri tabanı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\ \Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\giriş kayıt veri tabanı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+E:\ \Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\giriş kayıt veri tabanı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+E:\ \Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\giriş kayıt veri tabanı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\ \Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\giriş kayıt veri tabanı\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
